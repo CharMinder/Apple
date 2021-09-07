@@ -1,5 +1,5 @@
 {
-    "name": "charminder/apple",
+    "name": "charminder/apple2",
     "description": "Apple OAuth2 Provider for Laravel Socialite",
     "keywords": [
         "apple",
@@ -43,7 +43,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SocialiteProviders\\Apple\\": ""
+            "CharMinder\\Apple2\\": ""
         }
     },
     "minimum-stability": "stable",
