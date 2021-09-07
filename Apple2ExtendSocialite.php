@@ -1,10 +1,10 @@
 <?php
 
-namespace SocialiteProviders\Apple2;
+namespace CharMinder\Apple2;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
-class AppleExtendSocialite
+class Apple2ExtendSocialite
 {
     /**
      * Register the provider.
