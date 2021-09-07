@@ -13,6 +13,6 @@ class AppleExtendSocialite
      */
     public function handle(SocialiteWasCalled $socialiteWasCalled)
     {
-        $socialiteWasCalled->extendSocialite('apple', Provider::class);
+        $socialiteWasCalled->extendSocialite('apple2', Provider::class);
     }
 }

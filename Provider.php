@@ -25,7 +25,7 @@ class Provider extends AbstractProvider
     /**
      * Unique Provider Identifier.
      */
-    public const IDENTIFIER = 'APPLE';
+    public const IDENTIFIER = 'APPLE2';
 
     private const URL = 'https://appleid.apple.com';
 
